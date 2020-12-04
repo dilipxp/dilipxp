@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/dilipxp/dilipxp/spidy.png" alt="It's me Spider Man" width=342px height=1031px />
+<img align="right" src="https://github.com/dilipxp/dilipxp/spidy.png" alt="It's me Spider Man" width=342px height=400px />
 
 ### Hi there, I'm Dilip Singh! 👋
 
