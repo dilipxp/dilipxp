@@ -7,4 +7,4 @@ also in Video Editing, Music and Animation.
 
 -   More about me [my site!](https://www.dilipxp.me)
 -   How to reach me: dilipsinghoxox@gmail.com or Twitter [@dilipxp](https://twitter.com/dilipxp)
--   Nothing much yet but feel free to subscribe. [YouTube👦🏻] (https://www.youtube.com/channel/UC0Jm0EISAtsqRl03By6-udg?view_as=subscriber)
+-   Nothing much yet but feel free to subscribe. [YouTube👦🏻](https://www.youtube.com/channel/UC0Jm0EISAtsqRl03By6-udg?view_as=subscriber)
