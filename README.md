@@ -11,4 +11,4 @@ also in Video Editing, Music and Animation.
 
 
 ## Skills 
-<span style="color:red"> Python </span>
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
