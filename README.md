@@ -10,5 +10,5 @@ also in Video Editing, Music and Animation.
 -   Nothing much yet but feel free to subscribe. [YouTube👦🏻](https://www.youtube.com/channel/UC0Jm0EISAtsqRl03By6-udg?view_as=subscriber)
 
 
-##Skills 
-<span style="color:red">Python</span>
+## Skills 
+<span style="color:red"> Python </span>
