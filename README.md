@@ -11,4 +11,4 @@ also in Video Editing, Music and Animation.
 
 
 ## Skills 
-<p>Some Markdown text with <span style="color:red">some <em>blue</em> text</span>.</p>
+<span style="color:blue">some *This is Blue italic.* text</span>
