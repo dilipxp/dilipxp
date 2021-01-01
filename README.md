@@ -12,3 +12,10 @@ also in Video Editing, Music and Animation.
 
 ## Skills 
 <span style="color:blue">some *This is Blue italic.* text</span>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
